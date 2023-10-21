@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-🌱 I’m currently learning C.
+# I am currently studying programming at 42 Lisboa and want to specialize in front-end web development.
 
-👩‍🎓 I’m studying programing at 42 Lisboa.
+🌱 I’m currently learning C.
 
 🤝 Hire me at: www.linkedin.com/in/maria-s-lima
 
