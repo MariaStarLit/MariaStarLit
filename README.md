@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-# I am currently studying programming at 42 Lisboa and want to specialize in front-end web development.
+I am currently studying programming at 42 Lisboa and want to specialize in front-end web development.
 
 🌱 I’m currently learning C.
 
