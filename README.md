@@ -8,7 +8,7 @@
 - ⚡Fun fact: I’m an artist — check out my artwork on <a href="https://www.instagram.com/mariasl_art/" target="_blank">Instagram</a>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariastarlit&layout=compact&hide=TSQL&theme=chartreuse-dark" width="40%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariastarlit&layout=compact&hide=TSQL&theme=chartreuse-dark" width="41%" style="margin-right: 20px;>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariastarlit&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="50%">
 </p>
