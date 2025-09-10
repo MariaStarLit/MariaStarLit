@@ -1,11 +1,13 @@
 ### Hi there! 👋
 
-### I am currently studying programming at 42 Lisboa and want to specialize in front-end web development.
+👀 I’m interested in Game and Wed Development!
 
-🌱 I’m currently learning C.
+🔭 I'm studying in <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
 
-🤝 Hire me at: www.linkedin.com/in/maria-s-lima
+🌱 I’m currently learning Front-end Development 
 
-📫 How to reach me: mariasantoslima99@gmail.com
+📫 How to reach me mariasantoslima99@gmail.com
 
-⚡ Fun fact: I'm an artist, see it at: www.instagram.com/mariasl_art/
+🤝 Hire me on <a href="https://www.linkedin.com/in/maria-s-lima/" target="_blank">Linkedin</a>
+
+⚡Fun fact: I’m an artist — see my artwork on <a href="https://www.instagram.com/mariasl_art/" target="_blank">Instagram</a>
