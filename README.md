@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/60687885/215353151-9472a9e2-e60c-4807-8b93-eafa06e8d691.gif" width="30px">, I am Maria Santos Lima </h1>
-
-### Hi there! 👋
+<h1 align="center">Hi there! I'm Maria Santos Lima <img src="https://user-images.githubusercontent.com/60687885/215353151-9472a9e2-e60c-4807-8b93-eafa06e8d691.gif" width="30px"></h1>
 
 - 👀 I’m interested in Web and Game Development!
 - 🔭 Currently studying at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
