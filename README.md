@@ -27,10 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=rest&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=web&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=make&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
