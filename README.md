@@ -6,7 +6,7 @@
 
 <br>
 
-- 👀 I’m interested in Web and Game Development!
+- 👀 I’m interested in Web Design and Game Development!
 - 🔭 Currently studying at <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
 - 🌱 Learning Front-End Development 
 - 📫 Reach me at: mariasantoslima99@gmail.com
